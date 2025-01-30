@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.WebUI/MultiShop.WebUI.csproj": {}
+  },
+  "projects": {
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj",
+        "projectName": "MultiShop.DtoLayer",
+        "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj",
+        "packagesPath": "/Users/kubrakocyigit/.nuget/packages/",
+        "outputPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubrakocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/kubrakocyigit/Desktop": {},
+          "/Users/kubrakocyigit/Desktop/pocket": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.WebUI/MultiShop.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.WebUI/MultiShop.WebUI.csproj",
+        "projectName": "MultiShop.WebUI",
+        "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.WebUI/MultiShop.WebUI.csproj",
+        "packagesPath": "/Users/kubrakocyigit/.nuget/packages/",
+        "outputPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.WebUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubrakocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/kubrakocyigit/Desktop": {},
+          "/Users/kubrakocyigit/Desktop/pocket": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj": {
+                "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Frontends/MultiShop.DtoLayer/MultiShop.DtoLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "IdentityModel.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "IdentityServer4.Storage": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ifv7SU9TBaAPZ3S0+Rk26LNVzdv2HzRubJYOexMHVax1SVIFCz6OuzNB/kvKJethv86ET5y0RFthh0/cxCjCBg==",
+  "success": true,
+  "projectFilePath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/kubrakocyigit/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/kubrakocyigit/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

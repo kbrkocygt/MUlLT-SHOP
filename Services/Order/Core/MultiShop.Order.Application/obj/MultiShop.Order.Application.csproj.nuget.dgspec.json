@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
+        "projectName": "MultiShop.Order.Application",
+        "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/MultiShop.Order.Application.csproj",
+        "packagesPath": "/Users/kubrakocyigit/.nuget/packages/",
+        "outputPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubrakocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/kubrakocyigit/Desktop": {},
+          "/Users/kubrakocyigit/Desktop/pocket": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+                "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
+        "projectName": "MultiShop.Order.Domain",
+        "projectPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/MultiShop.Order.Domain.csproj",
+        "packagesPath": "/Users/kubrakocyigit/.nuget/packages/",
+        "outputPath": "/Users/kubrakocyigit/Downloads/MultiShop-master 2/Services/Order/Core/MultiShop.Order.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kubrakocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/Users/kubrakocyigit/Desktop": {},
+          "/Users/kubrakocyigit/Desktop/pocket": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
