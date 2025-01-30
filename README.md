@@ -1,4 +1,4 @@
-![MULTI SHOP](https://github.com/user-attachments/assets/969442a9-038b-49a4-8a3e-a1ab6acc27b8)MultiShop - E-Ticaret (Microservice)
+MultiShop - E-Ticaret (Microservice)
 
 Projenin Temel Amacı
 
@@ -82,3 +82,32 @@ Teknik Özellikler
 * Admin Paneli
 * Kullanıcı Paneli
 * Google cloud storage ile ürün görselleri
+UI Paneli
+
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+ 
+￼
+Admin Paneli
+
+￼
+ 
+￼
+ 
+￼
+Kullanıcı Paneli
+
+￼
