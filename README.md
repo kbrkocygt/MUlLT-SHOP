@@ -82,26 +82,7 @@ Teknik Özellikler
 * Admin Paneli
 * Kullanıcı Paneli
 * Google cloud storage ile ürün görselleri
-UI Paneli
 
-￼
- 
-￼
- 
-￼
- 
-￼
- 
-￼
- 
-￼
- 
-￼
- 
-￼
- 
-￼
-Admin Paneli
 
 ￼
  
