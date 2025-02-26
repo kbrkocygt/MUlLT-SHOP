@@ -85,10 +85,3 @@ Teknik Özellikler
 
 
 ￼
- 
-￼
- 
-￼
-Kullanıcı Paneli
-
-￼
